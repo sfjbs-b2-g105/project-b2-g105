@@ -1,0 +1,4 @@
+com\tcs\ProcessPensionDetails\ProcessPensionDetailsApplication.class
+com\tcs\ProcessPensionDetails\service\PensionarDetailServiceImpl.class
+com\tcs\ProcessPensionDetails\model\PensionerDetail.class
+com\tcs\ProcessPensionDetails\controler\PensionerDetailsController.class
